@@ -34,10 +34,9 @@ export default {
 
 <style>
 #app {
-  background-color: #333;
+  background-color: #efefef;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 </style>
